@@ -1,3 +1,4 @@
+#Transferring n numbers from parent process to child process
 import os , sys
 import time
 
